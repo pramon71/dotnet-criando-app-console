@@ -1,2 +1,2 @@
-# dotnet-criando-app-console
+# Dotnetr - Criando um App Console
 Exercício inicial do curso "Primeiros passos com .NET"
